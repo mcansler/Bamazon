@@ -203,7 +203,7 @@ function addProduct(){
                 stockquantity: answer.quantity
             },
             function(err, res) {
-                console.log("Product Added");
+                console.log("Product Added!");
                 menu();
             }
         );
