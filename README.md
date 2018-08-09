@@ -15,7 +15,7 @@ The customer interface allows the user to view the current inventory of store it
 To run the customer interface please follow the steps below:
 
 	git clone git@github.com:mcansler/Bamazon.git
-	cd bamazon
+	cd Bamazon
 	npm install
 	node bamazon.js
 
@@ -42,7 +42,7 @@ The **Quit** option allows the user to end the program.
 To run the manager interface please follow the steps below:
 
 	git clone git@github.com:mcansler/Bamazon.git
-	cd bamazon
+	cd Bamazon
 	npm install
 	node bamazonManager.js
 
