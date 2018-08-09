@@ -13,4 +13,6 @@ VALUES ("Canon 5D Mark IV", "Electronics", 3995.99, 15),
     
 SELECT * FROM bamazon.products;
 
+SELECT * FROM products WHERE stockquantity < 5;
+
 
